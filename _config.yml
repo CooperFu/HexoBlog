@@ -5,14 +5,14 @@
 # Site
 title: Cooper Blog
 subtitle:
-description: 我心有猛虎,细嗅蔷薇.
-author: 妖孽 
+description: 我心有猛虎, 细嗅蔷薇.
+author: 付强 
 language:
 timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://naotou.github.io
+url: http://cooperfu.github.io
 root: /
 permalink: :year-:month-:day/:title/
 permalink_defaults:
@@ -69,5 +69,5 @@ theme: yilia
 ## Docs: http://hexo.io/docs/deployment.html
 deploy:
  type: git    #部署类型, 本文使用Github
- repository: http://github.com/naotou/naotou.github.io.git
+ repository: http://github.com/naotou/cooperfu.github.io.git
 branch: master 
