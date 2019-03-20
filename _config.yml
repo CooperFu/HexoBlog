@@ -69,5 +69,5 @@ theme: yilia
 ## Docs: http://hexo.io/docs/deployment.html
 deploy:
  type: git    #部署类型, 本文使用Github
- repository: http://github.com/naotou/cooperfu.github.io.git
+ repository: http://github.com/cooperfu/cooperfu.github.io.git
 branch: master 
